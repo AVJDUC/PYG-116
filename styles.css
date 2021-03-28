@@ -1,6 +1,23 @@
-#center{
+body{
+    margin:auto;
+}
+
+#div{
+    margin: auto;
+    width: 75%;
+    text-align: justify;
+}
+
+.titulos{
     text-align: center;
 }
-img{
-    text-align: left
+
+#foto_gato{
+    float:left;
+    
+}
+
+#foto_perro{
+    float:left;
+    
 }
