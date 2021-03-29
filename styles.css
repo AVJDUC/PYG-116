@@ -1,4 +1,6 @@
 body{
+    width: auto;
+    height:auto;
     margin:auto;
 }
 
@@ -12,7 +14,8 @@ body{
     text-align: center;
 }
 
-#secciones td{
-    text-align:center;
+#secciones {
+    width: 55%;
+    /* padding-left: ;*/
 }
 
