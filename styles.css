@@ -4,6 +4,12 @@ body{
     margin:auto;
 }
 
+.imagen{
+    height: 200px; 
+    width: 250px;
+
+}
+
 #div{
     margin: auto;
     width: 75%;
