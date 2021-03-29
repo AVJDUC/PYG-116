@@ -1,22 +1,21 @@
-body{
+body {
     width: auto;
-    height:auto;
-    margin:auto;
+    height: auto;
+    margin: auto;
 }
 
-.imagen{
-    height: 200px; 
+.imagen {
+    height: 200px;
     width: 250px;
-
 }
 
-#div{
+#div {
     margin: auto;
     width: 75%;
     text-align: justify;
 }
 
-.titulos{
+.titulos {
     text-align: center;
 }
 
@@ -24,4 +23,3 @@ body{
     width: 55%;
     /* padding-left: ;*/
 }
-
