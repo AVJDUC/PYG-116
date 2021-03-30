@@ -23,3 +23,29 @@ body {
     width: 55%;
     /* padding-left: ;*/
 }
+
+nav {
+    text-align: right;
+}
+
+.img {
+    height: 370px;
+    width: 290px;
+}
+
+.listas {
+    list-style: none;
+}
+
+#tabla {
+    width: 40%;
+    padding-right: 30px;
+}
+
+#separar {
+    padding-left: 20px;
+}
+
+#link {
+    padding-right: 40px
+}
